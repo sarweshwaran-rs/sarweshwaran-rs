@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarweshchandran&show_icons=true&locale=en&layout=compact" alt="sarweshchandran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarweshchandran&show_icons=true&locale=en" alt="sarweshchandran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarweshchandran&" alt="sarweshchandran" /></p>
