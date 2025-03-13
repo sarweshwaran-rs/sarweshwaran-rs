@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&show_icons=true&locale=en" alt="sarweshwaran-rs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarweshwaran-rs&" alt="sarweshwaran-rs" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarweshwaran-rs" alt="GitHub Streak" /></a></p>
