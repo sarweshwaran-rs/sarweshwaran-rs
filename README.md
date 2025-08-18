@@ -26,5 +26,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarweshwaran-rs" alt="GitHub Streak" /></a>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishb-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarweshwaran-rs&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 </div>
