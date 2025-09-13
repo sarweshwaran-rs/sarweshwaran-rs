@@ -22,7 +22,7 @@
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&show_icons=true&locale=en" alt="sarweshwaran-rs" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&show_icons=true&locale=en" alt="sarweshwaran-rs" /></p> -->
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarweshwaran-rs" alt="GitHub Streak" /></a>
 </div>
