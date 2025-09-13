@@ -28,4 +28,5 @@
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarweshwaran-rs&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sarweshwaran-rs&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="Sarweshwaran R S's Most Used Languages" />
 </div>
