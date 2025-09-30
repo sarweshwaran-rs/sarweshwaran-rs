@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to learn **as many as new technology**
 
-- 📫 How to reach me **sarweshchandran@gmail.com**
+- 📫 How to reach me **sarweshwaranrs.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
