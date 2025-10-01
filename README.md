@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarweshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="sarweshwaran-rs" /> </p>
 
-- 🌱 I’m currently learning **Web-development and Data Sturcture and Algorithms**
+- I’m currently learning **Web-development and Data Sturcture and Algorithms**
 
-- 👯 I’m looking to learn **as many as new technology**
+- I’m looking to learn **as many as new technology**
 
-- 📫 How to reach me **sarweshwaranrs.dev@gmail.com**
+  - How to reach me **sarweshwaranrs.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
