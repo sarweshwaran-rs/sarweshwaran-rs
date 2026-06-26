@@ -22,6 +22,5 @@
 <div align="center">
  <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats">
-    <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sarweshwaran-rs&theme=radical&hide_border=true" alt="GitHub Streak">
   </p>
 </div>
