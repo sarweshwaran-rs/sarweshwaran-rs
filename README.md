@@ -23,4 +23,7 @@
  <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats">
   </p>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarweshwaran-rs&hide_border=true" width="60%" />
+</p>
 </div>
