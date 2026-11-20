@@ -53,5 +53,5 @@
 ---
 
 # 📊 GitHub Stats
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarweshwaran-rs&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Sarweshwaran R S's GitHub Stats" />
 ![Sarweshwaran's GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sarweshwaran-rs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
